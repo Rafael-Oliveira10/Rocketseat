@@ -26,15 +26,10 @@
 
 <div align="center">
   <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/vitorhonna/rocketseat-discover/blob/main/images/discover-conectar-certificate.jpg">
+    <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/rafaeloliveira/rocketseat-discover/blob/main/images/discover-conectar-certificate.jpg">
   </a>
   <p>Código: c7426790-6094-411b-a353-b0fdf335da4f</p>
   <br>
-  <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Fundamentar" src="https://github.com/vitorhonna/rocketseat-discover/blob/main/images/discover-fundamentar-certificate.jpg">
-  </a>
-  <p>Código: 97673bb3-2d55-4b4b-a859-6b8b488e91e3</p>
-</div>
 
 ## Anotações
 
