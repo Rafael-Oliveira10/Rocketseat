@@ -1,41 +1,5 @@
 # Rocketseat - Discover
 
-<div align="center">
-<a href="https://github.com/vitorhonna/rocketseat-discover">
-
-![Rocketseat Discover](images/rocketseat_discover_dark.png)
-
-</a>
-</div>
-
-## Tecnologias Estudadas
-
-<div style="display: inline_block" align="center"><br>
-  <a href="/HTML/html.md"><img align="center" alt="HTML" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></a>
-  <a href="/CSS/css.md"><img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></a>
-  <a href="/JavaScript/javascript.md"><img align="center" alt="JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="/Git/git.md"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  <a href="https://github.com/vitorhonna"><img align="center" alt="Github" height="50" width="60" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/github-white.svg"></a>
-  <a href="/node/node.md"><img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <strong height="50" width="60">&nbsp; EJS &nbsp;</strong>
-  <a href="/node_EJS/EJS.md"><img align="center" alt="Express" height="50" width="60" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/express-white.svg"></a>
-  <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
-</div>
-
-## Certificados
-
-<div align="center">
-  <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/vitorhonna/rocketseat-discover/blob/main/images/discover-conectar-certificate.jpg">
-  </a>
-  <p>Código: c7426790-6094-411b-a353-b0fdf335da4f</p>
-  <br>
-  <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Fundamentar" src="https://github.com/vitorhonna/rocketseat-discover/blob/main/images/discover-fundamentar-certificate.jpg">
-  </a>
-  <p>Código: 97673bb3-2d55-4b4b-a859-6b8b488e91e3</p>
-</div>
-
 ## Anotações
 
 <div align="center"><br>
@@ -94,18 +58,6 @@
 1. ✔️ SQL, a caixa preta da nossa nave
 
 #
-
-<div align="center">
-<a href="https://github.com/vitorhonna/rocketseat-discover">
-
-![Trilhas Rocketseat Discover](./images/rocketseat_discover2.png)
-
-</a>
-</div>
-
-## Trilhas
-
-<!-- ❌✔️ -->
 
 ### 🌎 Conectar (Carga horária: 2 horas)
 
