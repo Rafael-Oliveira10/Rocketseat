@@ -15,7 +15,6 @@
     <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/Rafael-Oliveira10/Rocketseat/blob/master/images/conectar_certificate.png">
   </a>
   <p>Código: b92aceba-9246-4c3c-ae13-f8e497e7adfc</p>
-## Anotações
 
 <div align="center"><br>
   📙 <a href="/HTML/html.md"><strong>HTML</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
