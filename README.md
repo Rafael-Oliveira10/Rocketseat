@@ -1,32 +1,18 @@
 # Rocketseat - Discover
 
 <div align="center">
-<a href="https://github.com/vitorhonna/rocketseat-discover">
+<a href="https://github.com/Rafael-Oliveira10/Rocketseat">
 
 ![Rocketseat Discover](images/rocketseat_discover_dark.png)
 
 </a>
 </div>
 
-## Tecnologias Estudadas
-
-<div style="display: inline_block" align="center"><br>
-  <a href="/HTML/html.md"><img align="center" alt="HTML" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></a>
-  <a href="/CSS/css.md"><img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></a>
-  <a href="/JavaScript/javascript.md"><img align="center" alt="JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="/Git/git.md"><img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  <a href="https://github.com/vitorhonna"><img align="center" alt="Github" height="50" width="60" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/github-white.svg"></a>
-  <a href="/node/node.md"><img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <strong height="50" width="60">&nbsp; EJS &nbsp;</strong>
-  <a href="/node_EJS/EJS.md"><img align="center" alt="Express" height="50" width="60" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/express-white.svg"></a>
-  <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
-</div>
-
 ## Certificados
 
 <div align="center">
   <a href="https://app.rocketseat.com.br/discover/certificates">
-    <img height="300px" alt="Certificado Discover Conectar" src="">
+    <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/Rafael-Oliveira10/Rocketseat/blob/master/images/conectar_certificate.png">
   </a>
   <p>Código: b92aceba-9246-4c3c-ae13-f8e497e7adfc</p>
 ## Anotações
@@ -143,10 +129,10 @@
 
 ### 🌌 Especializar (Carga horária: 7 horas)
 
-1. ✔️ Javascript Assíncrono e Promises
+1. ❌ Javascript Assíncrono e Promises
 1. ❌ Trabalhando com APIs
 1. ❌ Fundamentos de ReactJS
 1. ❌ Fundamentos de Typescript
 1. ❌ Github para times
 1. ❌ Transition e Animation
-1. ✔️ SQL Avançado
+1. ❌ SQL Avançado
