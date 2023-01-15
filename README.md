@@ -14,7 +14,12 @@
   <a href="https://app.rocketseat.com.br/discover/certificates">
     <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/Rafael-Oliveira10/Rocketseat/blob/master/images/conectar_certificate.png">
   </a>
-  <p>Código: b92aceba-9246-4c3c-ae13-f8e497e7adfc</p>
+  <p>Código: b92aceba-9246-4c3c-ae13-f8e497e7adfc</p> <br>
+    <a href="https://app.rocketseat.com.br/discover/certificates">
+    <img height="300px" alt="Certificado Discover Conectar" src="https://github.com/Rafael-Oliveira10/Rocketseat/blob/master/images/fundamentar_certificate.png">
+  </a>
+  <p>Código: 9e5b8a6d-c97b-4611-9633-f60f5c69dd77</p>
+  </div>
 
 <div align="center"><br>
   📙 <a href="/HTML/html.md"><strong>HTML</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
