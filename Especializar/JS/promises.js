@@ -34,7 +34,7 @@ fetch('https://api.github.com/users/Rafael-Oliveira10')
     .then (res => res.json()
       .then(d => console.log(d)))
   })
-}) */
+}) 
 
 const promessa = new Promise(function (resolve, reject) {
     return reject('Erro')
@@ -51,5 +51,13 @@ async function start() {
 
     }
 }
-
 start()
+*/
+
+async function start() {
+    const url = "https://api.github.com/users/Rafael-Oliveira10";
+    const user = await fetch(url).then( r => r.json())
+    const userRepos = await fetch(user.repos_url).then(r => r.json());
+    console.log(userRepos);
+}
+start().catch(error => console.log(error));
