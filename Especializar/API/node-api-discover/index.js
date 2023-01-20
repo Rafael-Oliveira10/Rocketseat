@@ -11,8 +11,8 @@ app.use(express.json())
 
 let users = [{
   id: 1,
-  name: "Jakeliny Gracielly",
-  avatar: "https://avatars.githubusercontent.com/u/17316392?v=4",
+  name: "Rafael Oliveira",
+  avatar: "https://avatars.githubusercontent.com/u/106357712?v=4",
   city: "São Paulo"
 }]
 
