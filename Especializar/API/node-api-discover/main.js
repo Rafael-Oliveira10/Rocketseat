@@ -47,7 +47,7 @@ function updateUser(updatedUser, id) {
 
 function deleteUser(id) {
     fetch(`${url}/${id}`, {
-        method: "DELETE"
+        method: "DELETE",
         body: JSON.stringify(updatedUser),
         headers: {
             "Content-Type": "application/json; charset=utf-8"
