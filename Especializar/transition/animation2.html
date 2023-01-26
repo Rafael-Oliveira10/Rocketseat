@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Animation</title>
+
+    <style>
+        div {
+            width: 100px;
+            height: 50px;
+            background-color: blueviolet;
+            position: relative;
+
+            animation-name: example;
+            animation-duration: 5s;
+        }
+
+        .linear {
+            animation-timing-function: linear;
+        }
+
+        .ease {
+            animation-timing-function: ease;
+        }
+
+        @keyframes example{
+            from{
+                left: 0px;
+            }
+
+            to{
+                left: calc(100% - 100px)
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="linear"></div>
+    <div class="ease"></div>
+</body>
+</html>
